@@ -10,7 +10,7 @@ First, you should generate your model as **generic model**.
 You can create your own model by using **cube** (mesh is not supported).
 
 - If your client version is **1.21.3 or less**, cube rotation will be limited. (-45, -22.5, 0, 22.5, 45 by one axis)
-- If your client version is **1.21.4 or more**, any rotation of cube can be rendered.
+- If your client version is **1.21.4 or more**, cube with any rotation can be rendered.
 
 ### Create model bone
 ![3](https://github.com/user-attachments/assets/53dfce65-edea-412f-b770-33782885800f)  
