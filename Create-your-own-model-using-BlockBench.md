@@ -7,7 +7,7 @@ Since we follow BlockBench modeling, you should check [how to modeling and anima
 ![1](https://github.com/user-attachments/assets/d183a96a-b644-4be4-af52-3f2fb5e06ead)  
 First, you should generate your model as **generic model**.  
 ![2](https://github.com/user-attachments/assets/711cb24f-7fba-4687-8ee3-a54195835388)  
-You can create your own model using **cube** (mesh is not supported).
+You can create your own model by using **cube** (mesh is not supported).
 
 - If your client version is **1.21.3 or less**, cube rotation is limited. (-45, -22.5, 0, 22.5, 45 by one axis)
 - If your client version is **1.21.4 or more**, any rotation of cube can be rendered.
