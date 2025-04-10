@@ -1,5 +1,5 @@
 ### Command
-BetterModel has some command.
+BetterModel has some commands.
 ```
 /bettermodel reload
 /bettermodel spawn <model> <entity type> <scale>
