@@ -17,19 +17,19 @@ You can create your own model by using **cube** (mesh is not supported).
 Model bone means **some group of cube**.
 - All elements will be rendered as one item display packet per one model bone.
 - Model bone can be freely rotated.
-- BlockBench supports **animating model** per one model bone.
+- BlockBench supports **animating model** per each model bone.
 
 ### Bone tag
 ![4](https://github.com/user-attachments/assets/2d315f38-cef9-4e3f-b896-3ba5cd093502)  
 There's some built-in bone tag in BetterModel.
 
 - **h_** - This model bone follows base entity's head rotation.
-- **b_** or **hitbox** - This model bone uses world position hit box.
+- **b_**, **ob_** or **hitbox** - This model bone uses world position hit box.
 - **p_** - This bone can be mounted.
 
 ### Import model
 First, put your model file to **plugins/BetterModel/models**.  
-Second, execute reload to command **(/bettermodel reload)**.  
-Third, Apply generated resource pack in **plugins/BetterModel/build**.  
+Second, execute reload to command **/bettermodel reload**.  
+Third, apply generated resource pack in **plugins/BetterModel/build**.  
 ![5](https://github.com/user-attachments/assets/26e79e42-d2af-42db-b068-983aefafebc7)  
 Done!
