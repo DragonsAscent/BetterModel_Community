@@ -9,5 +9,5 @@ Welcome to BetterModel Wiki!
 BetterModel allows you to **import BlockBench model**, **play animation**, **custom hit box**.
 
 ### Example video (YouTube)
-[Default logic](https://youtu.be/67IVo9KduW4?si=bj6MBIyuMO3AGvyK)
+[Default logic](https://youtu.be/67IVo9KduW4?si=bj6MBIyuMO3AGvyK)  
 [MythicMobs compatibility](https://youtu.be/fen9cDhdfZA?si=Psc03r3iV18jd-BP)
