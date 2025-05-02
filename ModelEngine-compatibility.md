@@ -7,6 +7,7 @@ Since there are many features shared with MEG, I strongly suggest you to refer b
 - Free license based on [MIT](https://github.com/toxicity188/BetterModel/blob/master/LICENSE.md)
 - More accurate position sync (like body rotation and mount)
 - More vanilla-like physics (like collision with entity, fire, jump, idle-walk animation shifting)
-- More detailed and optimized API (like spawn handling per each player)
+- More practical and optimized API (like spawn handling per each player)
 - Improved version compatibility
+- Very lightweight source code
 - Folia support
