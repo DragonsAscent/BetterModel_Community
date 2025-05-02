@@ -6,7 +6,8 @@
 ### Model tutorial
 - [1. Create model](https://github.com/toxicity188/BetterModel/wiki/Create-your-own-model-using-BlockBench)
 
-### [Compatibility (MythicMobs)](https://github.com/toxicity188/BetterModel/wiki/MythicMobs-Compatibility)
+### Compatibility (MythicMobs)
+- [General](https://github.com/toxicity188/BetterModel/wiki/MythicMobs-Compatibility)
 
 ### Home
 - [FAQ](https://github.com/toxicity188/BetterModel/wiki/FAQ)
