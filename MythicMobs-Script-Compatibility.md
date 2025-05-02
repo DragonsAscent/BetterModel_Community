@@ -2,7 +2,7 @@
 As i mentioned [before](https://github.com/toxicity188/BetterModel/wiki/ModelEngine-compatibility), I'm currently making MythicMobs support followed by MEG's wiki.
 
 ### Mechanics
-- model
+- [model](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-model)
 - state
 - defaultstate
 - partvisibility
