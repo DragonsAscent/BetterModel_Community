@@ -1,5 +1,5 @@
 ### Mechanic - model
-Add or remove a model from the targeted entity. ([MEG](https://git.lumine.io/mythiccraft/model-engine-4/-/wikis/Skills/Mechanics/Model)
+Add or remove a model from the targeted entity. ([MEG](https://git.lumine.io/mythiccraft/model-engine-4/-/wikis/Skills/Mechanics/Model))
 
 
 | parameter name | aliases | description | type | default value |
