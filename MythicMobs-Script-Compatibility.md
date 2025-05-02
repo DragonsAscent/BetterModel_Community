@@ -4,7 +4,7 @@ As i mentioned [before](https://github.com/toxicity188/BetterModel/wiki/ModelEng
 ### Mechanics
 - [model](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-model)
 - [state](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-state)
-- defaultstate
+- [defaultstate](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-defaultstate)
 - partvisibility
 - changepart
 - tint
