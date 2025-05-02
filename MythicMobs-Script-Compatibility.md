@@ -11,7 +11,7 @@ As i mentioned [before](https://github.com/toxicity188/BetterModel/wiki/ModelEng
 - brightness
 - glow
 - enchant
-- bindhitbox
+- [bindhitbox](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-bindhitbox)
 - mountmodel
 - dismountmodel
 - dismountallmodel
