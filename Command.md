@@ -16,4 +16,6 @@ BetterModel has some commands.
 - play - Plays player animation.
 
 ## citizens
+```
 /npc model <model>
+```
