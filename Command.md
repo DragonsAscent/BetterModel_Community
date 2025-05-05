@@ -14,3 +14,6 @@ BetterModel has some commands.
 - undisguise - undisguises self
 - limb <true/false> - Shows/Hides player limb.
 - play - Plays player animation.
+
+## citizens
+/npc model <model>
