@@ -7,7 +7,7 @@ As i mentioned [before](https://github.com/toxicity188/BetterModel/wiki/ModelEng
 - [defaultstate](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-defaultstate)
 - [partvisibility](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-partvisibility)
 - [changepart](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-changepart)
-- tint
+- [tint](https://github.com/toxicity188/BetterModel/wiki/Mechanic-%E2%80%90-tint)
 - brightness
 - glow
 - enchant
