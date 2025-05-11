@@ -17,5 +17,6 @@ BetterModel has some commands.
 
 ## citizens
 ```
-/npc model <model>
+/npc model <model> - set model
+/npc model - remove model
 ```
